@@ -1,0 +1,37 @@
+<div id="container">
+<div id="header"><a href="index.html"><img src="images/logo.jpg" width="214" height="50" alt="Tom Frost - Personel Trainer in Leeds, West Yorkshire" style="border:none;"/></a></div>
+<div id="navigation">
+<ul id="nav">
+<li><a href="index.html" id="index">Home</a></li>
+<li><a href="about.html" id="menu-about">About</a></li>
+<li><a href="services.html" id="menu-services">Services</a></li>
+<li><a href="testimonials.html" id="menu-test">Testimonials</a></li>
+<li><a href="/blog/" id="menu-blog">Blog</a></li>
+<li><a href="articles.html" id="menu-articles">Articles</a></li>
+<li><a href="contact.html" id="menu-contact">Contact</a></li>        
+</ul>
+</div>
+<div id="title_box">
+<embed src="images/flash.swf" 
+quality="high" 
+pluginspage="http://get.adobe.com/flashplayer/" 
+type="application/x-shockwave-flash" 
+width="960" height="450" 
+alt="images/header.jpg">
+</embed></div>`
+
+------------------------------------
+
+<div id="head">
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="786" height="147">
+      <param name="movie" value="themes/your theme name/images/filename.swf" />
+      <param name="quality" value="high" />
+
+<embed src="themes/your theme name/images/filename.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="786" height="147"></embed>
+    </object>
+    </div>
+
+
+-------------------------------------
+
