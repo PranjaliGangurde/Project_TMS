@@ -1,0 +1,273 @@
+
+
+#Container
+{
+ width:90%;
+ font-family:calibri;
+ border-radius:20px;
+margin:20px;
+padding:15px;
+}
+
+#Banner
+{
+ background-color:#FFCC66;
+ height:38%;
+ width:100%;
+ border-radius:30px;
+ background-image:url("Images/shirdi-banner1.jpg");
+ background-repeat:no-repeat;
+}
+
+#Navigation
+{
+ width:120%;
+ height:7%;
+ 
+ border-radius:30px;
+ background-image:url("Images/Nav1.jpg");
+ background-repeat:no-repeat;
+ font-family:calibri;
+ color:red;
+ font-weight:bold;
+}
+
+#Navigation ul
+{
+ float:center;
+ margin:0px;
+ padding:0px;
+ list-style:none;
+ color:orange;
+}
+
+#Navigation li
+{
+ float:left;
+ height:25px;
+ margin-left:15px;
+ margin-right:15px;
+ position:relative;
+}
+
+#Navigation li a
+{
+ text-decoration:none;
+}
+
+#Navigation li a:hover
+{
+ text-decoration:underline;
+ background-image:url("images/B.jpg");
+ color:black;
+}
+
+#Navigation li ul
+{
+ margin:0px;
+ padding 0px;
+ position:absolute;
+ left:-9999px;
+ height:30px;
+}
+
+#Navigation li:hover ul
+{
+ left:0px;
+ width:180px;
+}
+
+#Leftcol
+{
+ height:100%;
+ width:25%; 
+ float:left;
+ border-radius:20px;
+ background-image:url("Images/left.jpg");
+ background-repeat:no-repeat;
+}
+
+#Content
+{
+ Background-color:white;
+ height:100%;
+ border-radius:20px;
+ width:50%; 
+ float:left;
+ background-image:url("Images/Content4.jpg");
+ background-repeat:no-repeat;
+ color:#103D5A;
+}
+
+#Content a
+{
+ color:Purple;
+ text-decoration:underline;
+}
+
+#Content a:hover
+{
+ color:blue;
+ text-decoration:none;
+}
+
+#Rightcol
+{
+ height:100%;
+ width:25%; 
+ float:left;
+ border-radius:20px;
+ background-image:url("Images/Right.jpg");
+ background-repeat:no-repeat;
+}
+
+#Middle
+{
+ margin:0 1;
+ width:90%;
+ height:120%;
+ border-radius:20px;
+}
+
+#Footer
+{
+ background-image:url("Images/Nav1.jpg");
+ height:7%;
+ width:90%;
+ clear:both;
+ border-radius:20px;
+}
+
+#Footer1
+{
+ background-image:url("Images/Footer1.jpg");
+ background-repeat:no-repeat;
+ height:10%;
+ width:100%;
+ clear:both;
+ padding:-10px;
+ margin-right:-100px;
+ border-radius:30px;
+ font-family:Calibri;
+ font-size:14px;
+ color:black;
+}
+
+a
+{
+ color:#103D5A;
+ text-decoration:none;
+}
+
+a:hover
+{
+ color:Red;
+ text-decoration:underline;
+}
+
+#Image1
+{
+ height:46%;
+ width:97%;
+ float:left;
+ border:double;
+border-color:white;
+ border-radius:20px;
+ background-color:#EC843F;
+ background-image:url("Images/Maroonsai.jpg");
+ background-repeat:no-repeat;
+}
+
+#Image2
+{
+ height:46%;
+ width:97%;
+ float:left;
+ border:double;
+ border-color:white;
+ border-radius:20px;
+ background-color:#EC843F;
+ background-image:url("Images/Rightcol.jpg");
+ background-repeat:no-repeat;
+}
+
+#Image3
+{
+ height:46%;
+ width:97%;
+ float:left;
+ border:double;
+ border-color:white;
+ border-radius:20px;
+ background-color:#EC843F;
+ background-image:url("Images/Sai.jpg");
+ background-repeat:no-repeat;
+}
+
+#Image4
+{
+ height:46%;
+ width:97%;
+ float:left;
+ border:double;
+  border-color:white;
+ border-radius:20px;
+ background-color:#EC843F;
+ background-image:url("Images/Rightcol.jpg");
+ background-repeat:no-repeat;
+}
+
+#Login
+{
+ background-image:url("Images/Loginb.jpg");
+ height:220;
+ width:300;
+ clear:both;
+ border-radius:20px;	
+ float:left;
+}
+
+#Name
+{
+ background-color:#FFCC66;
+ font-family:calibri;
+ color:Marron;
+ border-radius:20px;
+}
+
+
+
+#Map
+{
+ background-image:url("Images/mapshirdi.gif");
+ background-repeat:no-repeat;
+ border-radius:20px;
+}
+
+@media screen and (max-width:480px) {   
+ #blog_rwd {    
+  float: none;    
+  width: 60.714285714285714285714285714286%;
+background:#FFB3B3;   
+ }
+}
+#b1
+{
+	background-color:#ffecca;
+}
+#tab
+{
+margin-top:-10%;	
+}
+#tab1
+{
+	height:190px;
+	width:250px;
+	background-color:#FFB3B3;
+	border:2px;
+	border-radius:5px;
+    border-color:black;
+	background-image:url("Images/loginfrm1.jpg");
+
+	
+}
